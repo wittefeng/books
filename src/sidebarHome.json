@@ -1,0 +1,21 @@
+{
+  "title": "Home",
+  "heading": true,
+  "path": "/",
+  "routes": [
+    {
+      "heading": true,
+      "path": "",
+      "routes": [
+        {
+          "title": "概览",
+          "path": "/"
+        },
+        {
+          "title": "关于我",
+          "path": "/about"
+        }
+      ]
+    }
+  ]
+}

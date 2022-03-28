@@ -1,0 +1,55 @@
+{
+  "title": "Web",
+  "heading": true,
+  "path": "/web",
+  "routes": [
+    {
+      "heading": true,
+      "path": "",
+      "routes": [
+        {
+          "title": "概述",
+          "path": "/web"
+        },
+        {
+          "title": "浏览器",
+          "path": "/web/browser",
+          "routes": [
+            {
+              "title": "从输入URL到页面呈现发生了什么？",
+              "path": "/web/browser/url"
+            },
+            {
+              "title": "跨域",
+              "path": "/web/browser/cross-domain"
+            },
+            {
+              "title": "浏览器缓存",
+              "path": "/web/browser/cache"
+            }
+          ]
+        },
+        {
+          "title": "HTML",
+          "path": "/web/html",
+          "routes": [
+            {
+              "title": "Thinking in React",
+              "path": "/web/html"
+            }
+          ]
+        },
+        {
+          "title": "css",
+          "path": "/web/css",
+          "routes": [
+            {
+              "title": "盒模型",
+              "path": "/web/css/box"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

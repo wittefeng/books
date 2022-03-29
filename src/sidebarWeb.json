@@ -48,6 +48,16 @@
               "path": "/web/css/box"
             }
           ]
+        },
+        {
+          "title": "react",
+          "path": "/web/react",
+          "routes": [
+            {
+              "title": "ErrorBoundary",
+              "path": "/web/react/error-boundary"
+            }
+          ]
         }
       ]
     }

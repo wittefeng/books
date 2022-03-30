@@ -56,6 +56,10 @@
             {
               "title": "ErrorBoundary",
               "path": "/web/react/error-boundary"
+            },
+            {
+              "title": "useEffect 中如何使用 async/await",
+              "path": "/web/react/async-use-effect"
             }
           ]
         }
